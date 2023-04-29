@@ -100,15 +100,16 @@ else:
 ```
 ## Output:
 i)
+
 ![python xp3b i](https://user-images.githubusercontent.com/118707521/235307720-7f3cec14-a28b-4c11-8640-701e4f0339d5.png)
+
 ii)
+
 ![python xp 3b ii](https://user-images.githubusercontent.com/118707521/235307745-d7880deb-f32f-4fa2-a9c6-2f1d32e50ce5.png)
+
 iii)
+
 ![python xp 3b iii](https://user-images.githubusercontent.com/118707521/235307763-d474994a-1fdf-431e-9eab-e562c607ca83.png)
-
-
-
-
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
